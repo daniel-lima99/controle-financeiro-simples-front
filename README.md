@@ -1,5 +1,6 @@
 ## Frontend Controle Financeiro Simples
 Interface gráfica que funciona em conjunto com a [API Controle Financeiro Simples](https://github.com/daniel-lima99/controle-financeiro-simples-api). Feito em TypeScript e React + Vite.
+
 ![image](https://github.com/user-attachments/assets/c5b43c63-26a0-488d-b7ff-cec3700a6cc4)
 
 ## Status
