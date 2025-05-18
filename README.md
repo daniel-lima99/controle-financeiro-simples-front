@@ -1,5 +1,6 @@
 ## Frontend Controle Financeiro Simples
 Interface gráfica que funciona em conjunto com a [API Controle Financeiro Simples](https://github.com/daniel-lima99/controle-financeiro-simples-api). Feito em TypeScript e React + Vite.
+![image](https://github.com/user-attachments/assets/c5b43c63-26a0-488d-b7ff-cec3700a6cc4)
 
 ## Status
 :construction: Em andamento :construction:
@@ -25,4 +26,4 @@ npm run dev
 # O Vite vai exibir a porta onde estará funcionando, que é 5173 por padrão.
 ```
 
-![image](https://github.com/user-attachments/assets/c5b43c63-26a0-488d-b7ff-cec3700a6cc4)
+
